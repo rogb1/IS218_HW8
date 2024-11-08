@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: rogb1/IS218_HW8:latest  # Change this to your DockerHub username and image name
+          tags: rogb1/is218_hw8:latest  # Change this to your DockerHub username and image name
